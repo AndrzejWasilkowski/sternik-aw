@@ -1,6 +1,0 @@
-LICENSE
-README.md
-test.txt
-test2.txt
-hahahahahahh
-cos fajnego
